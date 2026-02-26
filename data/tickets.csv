@@ -1,0 +1,271 @@
+text,priority,area
+Request to change the language setting in the user portal,Low,Access
+Request to label all network cables in the server room,Low,Networks
+Network outage is blocking the production line,High,Networks
+Need a new network cable run to my desk,Low,Networks
+Wireless controller is down and all access points are offline,High,Networks
+Network switch port showing repeated errors,Medium,Networks
+The label printer on the production line stopped working,High,Hardware
+User account was accidentally deleted from Active Directory,High,Access
+Barcode scanner is not reading any codes,High,Hardware
+Secondary WAN link also failed after primary went down,High,Networks
+Hard drive failure detected on a critical workstation,High,Hardware
+Remote desktop connection keeps timing out,Medium,Networks
+Cannot open a shared calendar in Outlook,Medium,Access
+WiFi is completely unavailable on the production floor,High,Networks
+Need a new desk lamp with a built-in USB port,Low,Hardware
+Lost access to the billing system right before the audit,High,Access
+Requesting a second desk phone for the reception area,Low,Hardware
+Need to update my display name in the directory,Low,Access
+Need to reset my VoIP desk phone PIN,Low,Access
+UPS battery failure is causing unexpected shutdowns,High,Hardware
+Webcam is not recognized by the operating system,Medium,Hardware
+Need to update my profile photo in the company directory,Low,Access
+WiFi disconnects every few minutes on the floor,Medium,Networks
+Docking station is not charging the laptop,Medium,Hardware
+My account has been locked out of the system,High,Access
+Cannot view specific modules in the ERP system,Medium,Access
+Request to change keyboard layout preference in my profile,Low,Access
+PLC hardware failure has stopped the production line,High,Hardware
+Request to add my user to a distribution email list,Medium,Access
+Need permission to install an approved software package,Medium,Access
+Firewall failure causing full connectivity loss,High,Networks
+Need to review and update firewall rules,Low,Networks
+Need to update my phone extension in the system,Low,Access
+Need an extra USB hub for my desk,Low,Hardware
+Request to open a firewall port for new software,Low,Networks
+Numpad section of keyboard is not responding,Medium,Hardware
+Thermal printer is printing only blank labels,High,Hardware
+Printer is jamming paper frequently throughout the day,Medium,Hardware
+User needs access to the customer relationship database,Medium,Access
+The entire plant network is down,High,Networks
+Need a replacement charger for my laptop,Low,Hardware
+Internet service provider outage affecting all operations,High,Networks
+Access card was deactivated before the end of the work contract,High,Access
+Domain account locked during a critical operation,High,Access
+Request for an additional monitor at my desk,Low,Hardware
+Server is overheating and shutting down automatically,High,Hardware
+Need access to the shared reports folder,Medium,Access
+Monitor display is flickering constantly,Medium,Hardware
+Some VLANs are not routing traffic correctly,Medium,Networks
+Cannot access payroll system on payday,High,Access
+WiFi password needs to be changed,Low,Networks
+Industrial terminal crashed and will not reboot,High,Hardware
+Cannot access the ERP system urgently needed for month closing,High,Access
+Handheld device screen is cracked and completely unresponsive,High,Hardware
+Keyboard is old and worn and needs replacement,Low,Hardware
+Cannot log in to the time-tracking application,Medium,Access
+User needs access to a specific SharePoint project site,Medium,Access
+Network switch failure affecting all workstations,High,Networks
+Cannot open certain modules inside the accounting system,Medium,Access
+Main router stopped responding,High,Networks
+Administrator privileges were removed from my account incorrectly,High,Access
+Network speed dropped significantly after last maintenance,Medium,Networks
+Cash register hardware failure blocking all transactions,High,Hardware
+Laptop is overheating during normal daily use,Medium,Hardware
+Need cable management supplies for the desk area,Low,Hardware
+Need access to the inventory management system,Medium,Access
+Need a monthly network usage report,Low,Networks
+Need to update my emergency contact details in HR system,Low,Access
+Two-factor authentication app was lost along with phone,High,Access
+Cannot authenticate to VPN for urgent remote work,High,Access
+IP address conflict causing intermittent issues,Medium,Networks
+VLAN misconfiguration causing total connectivity loss,High,Networks
+Requesting an ergonomic keyboard for health reasons,Low,Hardware
+Cannot connect via remote desktop to a specific server,Medium,Access
+Production line computer will not turn on at all,High,Hardware
+Conveyor belt control panel is unresponsive,High,Hardware
+Need a headset for participating in video calls,Low,Hardware
+RFID reader is not detecting any tags,High,Hardware
+Network latency is too high for video calls,Medium,Networks
+Request to join an optional internal mailing list,Low,Access
+Biometric reader for server room access is failing,High,Access
+Request to configure a new SSID for the office,Low,Networks
+Cannot access files after the shared folder was reorganized,Medium,Access
+VPN is down and remote team cannot connect,High,Networks
+I forgot my password and cannot log in to anything,High,Access
+Need to add a secondary email address to my account,Low,Access
+Request to increase WiFi coverage in the meeting room,Low,Networks
+Request for a laptop stand to improve posture,Low,Hardware
+Need to configure automatic email forwarding rules,Low,Access
+Cannot print from within the accounting application,Medium,Access
+Cannot authenticate to the cloud platform needed for deployment,High,Access
+Need a new mouse for my workstation,Low,Hardware
+Request for a label printer for the office area,Low,Hardware
+Cannot log in to the shift management system for scheduling,High,Access
+Request to update the manager assignment in the org chart system,Low,Access
+Requesting a monitor privacy filter screen,Low,Hardware
+Critical database access was revoked by mistake,High,Access
+Touchscreen calibration is significantly off,Medium,Hardware
+Keyboard and mouse are completely unresponsive,High,Hardware
+WiFi signal is weak near the warehouse entrance,Medium,Networks
+Request to change my corporate email signature,Low,Access
+Label applicator motor has failed,High,Hardware
+Fiber link is down between buildings,High,Networks
+Mouse cursor jumps around unexpectedly during use,Medium,Hardware
+Need access to the HR management portal,Medium,Access
+Keyboard keys are sticking and not registering,Medium,Hardware
+Network bandwidth saturated during peak hours,Medium,Networks
+Desktop fan is making a very loud grinding noise,Medium,Hardware
+Need to be set up as a new agent in the ticketing system,Medium,Access
+Need to register a new MAC address on the network,Low,Networks
+Need network access configured for a new workstation,Low,Networks
+Account appears to be compromised and needs immediate reset,High,Access
+Request for a static IP address assignment,Low,Networks
+Requesting a wireless keyboard and mouse set,Low,Hardware
+Computer is running very slowly and freezing,Medium,Hardware
+Need to review the network topology diagram,Low,Networks
+Request to adjust email notification preferences,Low,Access
+WiFi in the cafeteria is occasionally slow,Low,Networks
+Primary WAN link failed,High,Networks
+Need a new power strip at my workstation area,Low,Hardware
+Cannot log in to production system for end-of-day report,High,Access
+Request for a portable external hard drive,Low,Hardware
+Core switch is unresponsive and all ports are down,High,Networks
+Call quality is poor due to network congestion,Medium,Networks
+Workstation takes extremely long to boot up,Medium,Hardware
+Cannot connect to network printer from office,Medium,Networks
+Laptop battery drains too quickly during shifts,Medium,Hardware
+User is locked out of the machine control panel software,High,Access
+Network backbone failure detected in server room,High,Networks
+Request to set up a guest wireless network,Low,Networks
+Second monitor is not displaying image correctly,Medium,Hardware
+Critical workstation is blue screening on every startup,High,Hardware
+Internet is very slow in the main office,Medium,Networks
+Headset microphone is not working properly in calls,Medium,Hardware
+Shared folder is inaccessible from some machines,Medium,Networks
+Request for a compact document scanner,Low,Hardware
+DNS server is down and nothing resolves,High,Networks
+Monitor went completely black and will not turn on,High,Hardware
+Scanner is misreading barcodes occasionally,Medium,Hardware
+External hard drive is not being detected,Medium,Hardware
+Slow file transfer speeds between departments,Medium,Networks
+Printer tray is not feeding paper correctly,Medium,Hardware
+Request to update job title in Active Directory,Low,Access
+Need to add a new external contact to the shared address book,Low,Access
+USB ports on the workstation are not working,Medium,Hardware
+Need to change my default printer setting in the system,Low,Access
+Wireless access point has very limited range,Medium,Networks
+Need to be added to the correct security group,Medium,Access
+Printer is producing faded and unreadable output,Medium,Hardware
+Need to update my out-of-office auto-reply message,Low,Access
+Need to add a new device to the network,Low,Networks
+No internet connection in the warehouse,High,Networks
+Power supply failed on a key production server,High,Hardware
+User needs access to the project management platform,Medium,Access
+Need a replacement stylus for the drawing tablet,Low,Hardware
+Need to set up a network monitoring alert for one device,Low,Networks
+Need a webcam for upcoming remote meetings,Low,Hardware
+Request to update department assignment in the HR system,Low,Access
+Need to update the network documentation diagrams,Low,Networks
+Need read-only access to the archive database,Medium,Access
+Request to change the time zone setting in my calendar,Low,Access
+Need edit permission for the shared planning documents,Medium,Access
+Security token stopped working completely,High,Access
+Request to configure QoS rules for a new application,Low,Networks
+Request to update router firmware during maintenance window,Low,Networks
+Network is intermittently dropping connections,Medium,Networks
+All computers lost network connectivity,High,Networks
+Critical network failure in the data center,High,Networks
+Printer ink cartridges are running low,Low,Hardware
+Cannot view dashboards in the business reporting system,Medium,Access
+Some computers cannot access the shared drive,Medium,Networks
+Root access to the server is needed urgently for emergency maintenance,High,Access
+Cannot reach internal server from workstation,Medium,Networks
+Cannot ping servers from certain workstations,Medium,Networks
+Request to expand network to the new office area,Low,Networks
+Weighing scale is displaying completely incorrect values,High,Hardware
+Production scanner is offline and blocking the workflow,High,Hardware
+Complete network outage in building A,High,Networks
+Packet loss detected on production floor network,Medium,Networks
+Request to add a new application shortcut to my profile,Low,Access
+All network printers went offline simultaneously,High,Networks
+Network failure is preventing clock-in for all employees,High,Networks
+Emergency: production data cannot sync due to network outage,High,Networks
+Network storm detected causing severe packet loss across all segments,High,Networks
+Both redundant links failed at the same time,High,Networks
+Network outage is blocking order fulfillment system,High,Networks
+Internet gateway is unreachable from all internal hosts,High,Networks
+Critical: ERP server unreachable due to routing failure,High,Networks
+Access point cluster failure leaving entire floor without WiFi,High,Networks
+Complete loss of connectivity between headquarters and branch,High,Networks
+VPN connection drops every 20 minutes,Medium,Networks
+Video conferencing quality is very poor due to bandwidth issues,Medium,Networks
+File uploads to cloud storage are extremely slow,Medium,Networks
+Network switch is dropping packets on port 12,Medium,Networks
+Certain websites are unreachable but others work fine,Medium,Networks
+WiFi is stable but download speeds are below 1 Mbps,Medium,Networks
+Network printer is reachable but jobs are not printing,Medium,Networks
+Intermittent connection loss on wired workstations in room 3,Medium,Networks
+Cannot access internal wiki from remote connection,Medium,Networks
+Remote desktop sessions disconnect after a few minutes of inactivity,Medium,Networks
+Request to document all switch port assignments,Low,Networks
+Need WiFi access enabled in the new breakroom,Low,Networks
+Request to whitelist a new domain in the web filter,Low,Networks
+Need to configure a secondary DNS server,Low,Networks
+Request to create a new network segment for IoT devices,Low,Networks
+Need bandwidth usage report for last quarter,Low,Networks
+Request to rename a wireless network SSID,Low,Networks
+Need to add a new access point in the storage room,Low,Networks
+Request to set up port mirroring for monitoring purposes,Low,Networks
+Need to verify that backup network link is functioning correctly,Low,Networks
+Production computer is showing a hard drive read error,High,Hardware
+Receipt printer at point of sale is completely dead,High,Hardware
+Server RAID array has failed and data may be at risk,High,Hardware
+Industrial scale is not turning on at the start of shift,High,Hardware
+Forklift terminal screen broke during operation,High,Hardware
+Label printer head is burned out and needs replacement,High,Hardware
+Workstation motherboard failure confirmed after diagnostics,High,Hardware
+Touch panel on the production line is unresponsive,High,Hardware
+Backup power unit failed during last night power fluctuation,High,Hardware
+Warehouse handheld scanner is completely frozen and unresponsive,High,Hardware
+Printer is consistently skipping every other label,Medium,Hardware
+Computer restarts randomly once or twice per day,Medium,Hardware
+Laptop hinge is broken and screen wobbles during use,Medium,Hardware
+Scanner glass has a scratch causing dark line in scans,Medium,Hardware
+Desktop speaker produces static noise during calls,Medium,Hardware
+Wireless mouse loses connection when battery is low,Medium,Hardware
+Monitor backlight flickers when brightness is above 50 percent,Medium,Hardware
+Docking station video output stopped working,Medium,Hardware
+Laptop touchpad is too sensitive and causes errors,Medium,Hardware
+Card reader at entrance is intermittently failing to read badges,Medium,Hardware
+Need a replacement laptop bag for field visits,Low,Hardware
+Requesting a second power adapter to keep at home,Low,Hardware
+Need a presenter remote for meeting room presentations,Low,Hardware
+Request for anti-glare screen protector for workstation monitor,Low,Hardware
+Need a replacement battery for the wireless keyboard,Low,Hardware
+Requesting a small USB fan for hot workstation area,Low,Hardware
+Need a longer HDMI cable to connect to meeting room display,Low,Hardware
+Request for a numeric keypad attachment for laptop use,Low,Hardware
+Need a phone holder mount for the reception desk,Low,Hardware
+Requesting a label maker for the supply room,Low,Hardware
+Cannot log into the system at start of shift and team is waiting,High,Access
+Password reset link is not arriving to my email,High,Access
+Entire team lost access to the shared project folder overnight,High,Access
+New employee cannot log in on their first day,High,Access
+Access to financial reports blocked before board meeting,High,Access
+IT admin account locked after failed login attempts,High,Access
+Cannot access quality control system before inspection,High,Access
+Warehouse supervisor lost access to dispatch software,High,Access
+Single sign-on stopped working for the entire department,High,Access
+Cannot unlock encrypted drive needed for audit documentation,High,Access
+Need access to the supplier portal to process an order,Medium,Access
+Cannot view historical reports older than 90 days,Medium,Access
+User needs write access to the operations shared folder,Medium,Access
+Cannot submit expense reports through the finance portal,Medium,Access
+Need access to the maintenance scheduling software,Medium,Access
+User transferred to a new department but still has old access,Medium,Access
+Cannot create new entries in the asset management system,Medium,Access
+Need approval workflow access in the procurement system,Medium,Access
+Cannot export data from the analytics platform,Medium,Access
+User needs access to the compliance training portal,Medium,Access
+Need to update my work anniversary date in the HR system,Low,Access
+Request to change my default dashboard in the ERP,Low,Access
+Need to set up automatic replies in my email client,Low,Access
+Request to update the team distribution list members,Low,Access
+Need to change my preferred language in the helpdesk portal,Low,Access
+Request to add a shortcut to an internal tool in my browser,Low,Access
+Need to update my cost center assignment in the system,Low,Access
+Request to change the default report format in my account,Low,Access
+Need to register a personal device for corporate WiFi access,Low,Access
+Request to update my dietary preference in the cafeteria system,Low,Access
